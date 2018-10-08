@@ -1,6 +1,6 @@
 ## TITLE: API Note App
 
-API Org App is [[https://github.com/yoyo-holdings][YOYO]]'s technical test.  This is a standard web
+API Org App is [YOYO's](https://github.com/yoyo-holdings) technical test.  This is a standard web
 application that provides a simple organizer for the user to store notes
 and TODOs.
 
@@ -9,7 +9,7 @@ and TODOs.
   1. Fork this repository on your own personal GitHub account.
   2. Download your fork, build this app, and begin making changes.
   3. When finished, create a Pull Request to merge into YOYO's version,
-     then send an email to [[https://github.com/aindong][@aindong]] to let him know you're ready for
+     then send an email to [aindong](https://github.com/aindong) to let him know you're ready for
      review.
   4. We will close the pull request.
 
@@ -37,8 +37,8 @@ and TODOs.
      TODO-tracking activities.
   7. The app should make it easy to switch a note to a TODO entry, and
      vice versa.
-  8. The web app's UI should be accessible at [[http://localhost:3000]],
-     while its API should be at [[http://localhost:3000/api]].
+  8. The web app's UI should be accessible at http://localhost:3000,
+     while its API should be at http://localhost:3000/api.
 
 * Questions
 
@@ -69,7 +69,7 @@ and TODOs.
     complete this test, so long as the resulting app is a standard web
     application that can be deployed using the standard tooling:
 
-    #+BEGIN_SRC sh
-      # assuming Django
-      python3 manage.py runserver 127.0.0.1:3000
-    #+END_SRC
+```
+# assuming Django
+python3 manage.py runserver 127.0.0.1:3000
+```
