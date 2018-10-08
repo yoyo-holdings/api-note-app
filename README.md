@@ -1,5 +1,4 @@
-#+TITLE: API Note App
-#+AUTHOR: Alleo Indong <alleo.indong@yoyo-holdings.com>
+## TITLE: API Note App
 
 API Org App is [[https://github.com/yoyo-holdings][YOYO]]'s technical test.  This is a standard web
 application that provides a simple organizer for the user to store notes
